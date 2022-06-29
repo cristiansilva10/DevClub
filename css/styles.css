@@ -1,0 +1,37 @@
+
+#titulo {
+    color: red;
+    font-size: 55px;
+}
+
+#paragrafo{
+    color: blue;
+    font-size: 20px;
+}
+
+#botao {
+    background: green;
+}
+
+.texto {
+    color: red;
+    font-weight: bold;
+}
+
+.texto, .botao, .paragrafo, p, h1,.titulo{
+    color: red;
+
+    background: #66a144
+}
+
+.pai {
+    width: 50vw;
+    height: 50vh;
+}
+.filho {
+    width: 50%;
+    height: 50%;
+}
+
+
+

@@ -1,0 +1,80 @@
+*{font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+font-size: 20px;
+line-height: 21px;
+letter-spacing: 0.875px;
+color: #17233D;
+margin: 10px;
+padding: 0;
+box-sizing: border-box;
+}
+
+header{
+margin: 50px 70px 600px 70px;
+}
+
+.link-header{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    cursor: pointer;
+    color: #17233D;
+}
+
+.button-header{
+    font-weight: 500;
+font-size: 15px;
+line-height: 30px;
+letter-spacing: 1px;
+    left: 10;
+    right: 0;
+    top: 0;
+    bottom: 10px;
+    border: none;
+    background: #6FBF44;
+    border: 5px solid #4CB538;
+    border-radius: 6px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.logo-image{
+    width: 500px;
+    height: 500px;
+    margin-left: 05px;
+}
+section{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+h1{
+    width: 582px;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 52px;
+    letter-spacing: 0.596154px;
+    color: #161A49;
+}
+
+p{
+    width:300;
+    height: 150px;
+    left: 50px;
+    margin-top: 100px;
+}
+
+.button-main{
+   
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+}
